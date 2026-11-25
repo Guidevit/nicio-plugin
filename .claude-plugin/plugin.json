@@ -1,0 +1,13 @@
+{
+  "name": "nicio",
+  "displayName": "Nicio",
+  "version": "0.1.0",
+  "description": "A fila de oposição do Nicio dentro da conversa: os pares da RPI contra a carteira do escritório, com o risco e o protocolar até de cada um.",
+  "author": {
+    "name": "Nicio",
+    "url": "https://nicio.com.br"
+  },
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://nicio.com.br/privacidade"
+}

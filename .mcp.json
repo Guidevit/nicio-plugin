@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nicio": {
+      "type": "http",
+      "url": "https://nicio.com.br/api/mcp"
+    }
+  }
+}
