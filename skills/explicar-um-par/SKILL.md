@@ -9,7 +9,7 @@ A pessoa quer entender por que o Nicio colocou duas marcas lado a lado. Você mo
 
 ## Passos
 
-1. Ache o par. Com o `id` em mãos, chame `par` direto. Com só o nome de uma marca, chame `fila` e procure o nome em `textoDeTerceiros`, seguindo o `cursor` até o fim se preciso. Se não achar, procure em `prazos`. Se houver mais de um par com o nome, pergunte qual antes de seguir. Se não houver nenhum, diga isso e pare.
+1. Ache o par. Com o `id` em mãos, chame `par` direto. Com só o nome de uma marca, chame `fila` e procure o nome em `textoDeTerceiros` e na marca da carteira. Siga o `cursor` até ele vir nulo antes de dizer quantos pares têm o nome, mesmo que a primeira página já traga algum. Se não achar, procure em `prazos`. Se houver mais de um par com o nome, liste todos e pergunte qual antes de seguir. Se não houver nenhum, diga só que nenhum par com esse nome está na fila nem nos prazos, e pare. Não diga que o nome falta na carteira ou no Nicio: `fila` e `prazos` mostram só as marcas que estão em pares.
 2. Chame `par` com o `id`.
 3. Comece pelo prazo, na primeira linha: «Protocolar até DD/MM, faltam N dias», de `prazo.protocolarAte` e `prazo.diasRestantes`. Se `prazo.vencida` for verdadeiro, diga que o prazo legal venceu.
 4. Mostre a evidência de `evidencia`, uma linha por leitura, com estes nomes:

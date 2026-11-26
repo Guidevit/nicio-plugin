@@ -22,7 +22,7 @@ Toda terça sai uma RPI. A pessoa quer saber o que a edição trouxe e o que ain
 
 ## Repetir toda semana
 
-Se a pessoa pedir para receber esta rotina toda terça, diga que o Claude pode agendar uma tarefa, onde o plano dela tiver esse recurso. Não crie o agendamento sem ela pedir. Os lembretes de prazo continuam vindo do Nicio por e-mail.
+Se a pessoa pedir para receber esta rotina toda terça, comece a resposta com esta frase: «O Claude pode agendar esta tarefa se o seu plano tiver esse recurso.» Diga a frase mesmo quando você mesmo puder montar o agendamento aqui. Não crie o agendamento sem a pessoa confirmar. Diga também que os lembretes de prazo continuam vindo do Nicio por e-mail.
 
 ## Regras
 
