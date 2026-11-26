@@ -12,7 +12,7 @@ Sem a conexão, o Claude explica como conectar e não mostra nenhum par.
 
 ## Dados
 
-O plugin não guarda nada. Ele só lê, pelo endereço https://nicio.com.br/api/mcp, os dados do escritório que fez a conexão. Cada consulta fica registrada no Nicio. Decidir se vale opor continua sendo do profissional que acompanha a marca. A política de privacidade está em https://nicio.com.br/privacidade.
+O plugin não guarda nada. Ele lê, pelo endereço https://nicio.com.br/api/mcp, os dados do escritório que fez a conexão. Uma decisão num par só é gravada depois que a pessoa diz sim na conversa. Cada consulta fica registrada no Nicio. Decidir se vale opor continua sendo do profissional que acompanha a marca. A política de privacidade está em https://nicio.com.br/privacidade.
 
 ## Licença
 
