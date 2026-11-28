@@ -5,9 +5,23 @@
   "description": "A fila de oposição do Nicio dentro da conversa: os pares da RPI contra a carteira do escritório, com o risco e o protocolar até de cada um.",
   "author": {
     "name": "Nicio",
+    "email": "contato@nicio.com.br",
     "url": "https://nicio.com.br"
   },
+  "homepage": "https://nicio.com.br",
+  "repository": "https://github.com/Guidevit/nicio-plugin",
   "license": "MIT",
+  "keywords": [
+    "marcas",
+    "oposição",
+    "inpi",
+    "rpi",
+    "propriedade intelectual",
+    "carteira de marcas"
+  ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://nicio.com.br/privacidade"
+  "documentationUrl": "https://github.com/Guidevit/nicio-plugin#readme",
+  "supportUrl": "https://nicio.com.br/conectar-o-assistente",
+  "privacyPolicyUrl": "https://nicio.com.br/privacidade",
+  "termsOfServiceUrl": "https://nicio.com.br/termos"
 }
