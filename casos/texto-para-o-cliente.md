@@ -4,8 +4,8 @@
 
 - **Pergunta:** «Escreve para o cliente sobre o par da {publicada do par 1}.»
 - **Chamadas:** `fila`, `par`.
-- **A resposta tem:** o rascunho no formato da skill, com a RPI e a data de `publicada.publicadaEm`, as duas marcas, as classes, as leituras de `evidencia` acima de 0 e «Prazo para oposição» na data de `prazo.legal`; o aviso de que é um rascunho para a pessoa revisar e enviar.
-- **Errado:** «faltam N dias»; «a oposição será aceita»; preço ou honorário; a palavra parecer; uma chamada de e-mail.
+- **A resposta tem:** o rascunho no formato da skill, com a RPI e a data de `publicada.publicadaEm`, as duas marcas, as classes, as leituras de `evidencia` acima de 0 e «Prazo para oposição» na data de `prazo.legal`; a última linha «Esta mensagem foi redigida com ajuda de inteligência artificial.»; o aviso de que é um rascunho para a pessoa revisar e enviar.
+- **Errado:** «faltam N dias»; «a oposição será aceita»; preço ou honorário; a palavra parecer; uma chamada de e-mail; um rascunho sem a linha da inteligência artificial.
 
 ## 2. Prazo vencido
 
